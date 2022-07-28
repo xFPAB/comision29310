@@ -8,3 +8,7 @@ body{
 head{
     background-color: aliceblue;
 }
+h2{
+    text-transform: uppercase;
+    color: red;
+}
